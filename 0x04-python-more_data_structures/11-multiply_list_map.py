@@ -4,7 +4,7 @@
 # demonstrates how to return a list with all values multiplied by a number
 # without using any loops
 #
-# (C) 2022 Adiamah Isaiah, Kumasi, Ghana
+# (C) 2024 Adiamah Isaiah, Kumasi, Ghana
 # email isaiahadiamah20@gmail.com
 # -----------------------------------------------------------
 

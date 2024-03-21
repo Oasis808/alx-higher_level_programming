@@ -3,7 +3,7 @@
 # Python program that:
 # demonstrates how to convert a Roman numeral to an integer
 #
-# (C) 2022 Adiamah Isaiah, Accra, Ghana
+# (C) 2024 Adiamah Isaiah, Accra, Ghana
 # email isaiahadiamah20@gmail.com
 # -----------------------------------------------------------
 
